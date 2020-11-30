@@ -1,0 +1,27 @@
+.dark-bg {
+    background-color: #1c1717;
+    padding:20px 0 5px 0;
+}
+
+
+.mainnav ul {
+    list-style: none;
+    text-align:right;
+}
+.mainnav ul li {
+    display:inline-block;
+
+}
+.mainnav ul li a {
+    display:block;
+    color:#fff;
+    text-decoration:none;
+    padding:0 10px;
+    font-size:18px;
+    line-height:40px;
+    transition:.4s;
+}
+
+.mainnav ul li a:hover {
+    color:#ddd;
+}
